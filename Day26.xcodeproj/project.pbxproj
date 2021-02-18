@@ -11,6 +11,7 @@
 		F1C2855625DBDAE500AD0AF8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C2855525DBDAE500AD0AF8 /* ContentView.swift */; };
 		F1C2855825DBDAE600AD0AF8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1C2855725DBDAE600AD0AF8 /* Assets.xcassets */; };
 		F1C2855B25DBDAE600AD0AF8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1C2855A25DBDAE600AD0AF8 /* Preview Assets.xcassets */; };
+		F1C2856425DCA4D000AD0AF8 /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = F1C2856325DCA4D000AD0AF8 /* SleepCalculator.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		F1C2855725DBDAE600AD0AF8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F1C2855A25DBDAE600AD0AF8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F1C2855C25DBDAE600AD0AF8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F1C2856325DCA4D000AD0AF8 /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				F1C2855325DBDAE500AD0AF8 /* Day26App.swift */,
 				F1C2855525DBDAE500AD0AF8 /* ContentView.swift */,
 				F1C2855725DBDAE600AD0AF8 /* Assets.xcassets */,
+				F1C2856325DCA4D000AD0AF8 /* SleepCalculator.mlmodel */,
 				F1C2855C25DBDAE600AD0AF8 /* Info.plist */,
 				F1C2855925DBDAE600AD0AF8 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F1C2855625DBDAE500AD0AF8 /* ContentView.swift in Sources */,
+				F1C2856425DCA4D000AD0AF8 /* SleepCalculator.mlmodel in Sources */,
 				F1C2855425DBDAE500AD0AF8 /* Day26App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
